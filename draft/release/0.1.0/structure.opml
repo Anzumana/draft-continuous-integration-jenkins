@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<opml version="1.0">
+    <head>
+        <title>Untitled</title>
+        <dateCreated>2016-11-15 12:55:22 +0100</dateCreated>
+    </head>
+    <body>
+        <outline text="Draft">
+            <outline text="Abstract" _note="Increasing developer productivity through dev ops continuous integration 
+process illustrated using jenkins   - measuring developer productivity is difficult - motivation ( internal and external ) - metrics - importance of dev ops ( continuous integration ) - jenkins what it can do and how"></outline>
+            <outline text="Introduction" _note="Motivation - How is the research question relevant ? Purpose - Quick Summary of what the research paper is aiming at. ( figure out how jenkins can help developers be more productive and in what ways and how this can be achieved ) Structure A quick rundown of the structure of our paper. So people can skip over the areas which are not relevant to them.">
+                <outline text="Motivation"></outline>
+                <outline text="Purpose"></outline>
+                <outline text="Structure"></outline>
+            </outline>
+            <outline text="Related Work" _note="A brief overview what work there has already been done. to answer similar questions. Also mention those paper that could be interesting to the reader in case they want to learn more on specific subjects that this paper will only cover very briefly. Subjects of those papers would include : productivity/motivation/jenkins/ci/cd/scm/…"></outline>
+            <outline text="Research Method" _note="Describe what kind of papers we included in our paper as references. - also could be more important what papers we did not include and why. brief description of the later introduced metric that we use to measure productivity Anything else that might be relevant to enable finding verification"></outline>
+            <outline text="What could affect productivity" _note="Begin by describing what productivity is and how this concept can be applied to developers. Motivation - internal / external We describe the different parts of the development structure that could increase the productivity. - since only those can be helped ci In general describe all aspects that could have an effect on development productivity">
+                <outline text="Productivity"></outline>
+                <outline text="External / Internal Motivation"></outline>
+                <outline text="DevOps"></outline>
+                <outline text="Continuous Integration"></outline>
+                <outline text="Continuous Delivery"></outline>
+                <outline text="Microservices"></outline>
+                <outline text="Agile Development"></outline>
+                <outline text="Requirements Engineering"></outline>
+                <outline text="Version Controll">
+                    <outline text="Branch Model"></outline>
+                </outline>
+                <outline text="TDD"></outline>
+                <outline text="Code Quality ( Iso)"></outline>
+            </outline>
+            <outline text=" Metric" _note="Based on previous chapter. what metrics there could be to test developer productivity and what aspect of the iso for software quality could make the development of the software easier. so we would have to check for those aspects in our software during the development. "></outline>
+            <outline text="What is Jenkins?" _note="Describe what jenkins is Reference previous chapters on what aspects of productivity related to the development process, Jenkins can help with. Quick description of the jenkins architecture Use a lot of visual aids so that people have a much clearer image of what jenkins And the different processes that jenkins is able to do, would look like.">
+                <outline text="Jenkins"></outline>
+                <outline text="Plugins"></outline>
+                <outline text="Pipelines"></outline>
+                <outline text="Setup"></outline>
+            </outline>
+            <outline text="CI using Jenkins" _note="Illustrate those aspects of the CI Process that we decided could help increase the productivity of developers. Include 1 extensive case study instead of simple pseudo implementations. Only a full project has the scope to make one realize what aspects could be missing. This depends of course on the project - so we need to mention how projects might differ - ref starting paper">
+                <outline text="Develop"></outline>
+                <outline text="Build"></outline>
+                <outline text="Test"></outline>
+                <outline text="Deploy"></outline>
+            </outline>
+            <outline text="Conclusion" _note="Summary of findings Can we answer the given research question now? If not fully, cover the aspects of the question that we can answer. Outlook - define were more research would be needed - based on literature found during the writing and our findings. ">
+                <outline text="Summary"></outline>
+                <outline text="Outlook"></outline>
+            </outline>
+            <outline text="Acknowledgements" _note="In case there is stuff we want to thank  see starting paper for reference on what this section could look like."></outline>
+        </outline>
+    </body>
+</opml>
